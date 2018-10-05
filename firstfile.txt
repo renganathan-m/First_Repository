@@ -1,5 +1,5 @@
 0th line
-Editing in github straigt away..editing te same line
+Editing in github straigt away..editing te same line 
 First line in local
 Tird line being inserted
 fourth lie from github
